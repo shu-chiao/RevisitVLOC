@@ -1,0 +1,28 @@
+# Data (keep folder structure, ignore contents)
+data/*
+!data/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test files
+test.png
+
+# Milvus database
+*.db
+*.db.lock
+
+# H5 feature files
+*.h5
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
