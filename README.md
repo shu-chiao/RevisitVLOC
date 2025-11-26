@@ -68,7 +68,8 @@ This project builds upon the following excellent works:
 - **[hloc](https://github.com/cvg/Hierarchical-Localization)** - Hierarchical localization toolbox
   > Sarlin et al. "From Coarse to Fine: Robust Hierarchical Localization at Large Scale." CVPR 2019.
 
-- **[NYC-Indoor-VPR](https://ai4ce.github.io/NYC-Indoor-VPR/#)** - Indoor VPR dataset
+- **[NYC-Indoor-VPR](https://ai4ce.github.io/NYC-Indoor-VPR/#)** - Indoor VPR dataset  
+  > [huggingface](https://huggingface.co/datasets/ai4ce/NYC-Indoor-VPR-Data/tree/main)  
   > Diwei Sheng et al. "NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset." 2024.
 
 ## License
