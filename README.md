@@ -22,11 +22,12 @@ pip install -r requirements.txt
 
 ### 2. Download Sample Data
 
-Download `library_b4_sample.zip` from [Releases](https://github.com/your-username/RevisitVLOC/releases) and extract to `data/`:
+Download from [NYC-Indoor-VPR](#acknowledgements) and organize as:
 
-```bash
-cd data
-unzip library_b4_sample.zip
+```
+data/library/
+├── 0407_0415_b4/   # reference
+└── 0625_0628_b4/   # query
 ```
 
 ### 3. Run the Notebook
@@ -69,7 +70,7 @@ This project builds upon the following excellent works:
   > Sarlin et al. "From Coarse to Fine: Robust Hierarchical Localization at Large Scale." CVPR 2019.
 
 - **[NYC-Indoor-VPR](https://ai4ce.github.io/NYC-Indoor-VPR/#)** - Indoor VPR dataset  
-  > [huggingface](https://huggingface.co/datasets/ai4ce/NYC-Indoor-VPR-Data/tree/main)  
+  > [huggingface](https://huggingface.co/datasets/ai4ce/NYC-Indoor-VPR-Data/tree/main) Download public dataset  
   > Diwei Sheng et al. "NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset." 2024.
 
 ## License
