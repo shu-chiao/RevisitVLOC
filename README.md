@@ -2,6 +2,11 @@
 
 Visual Place Recognition (VPR) tutorial for robot localization using NetVLAD and Milvus vector database.
 
+## 📰 Medium Article
+
+**Robots with a Sense of Place: A Gentle Guide to VPR**  
+[![Read on Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@stonebridgecfsu/robots-with-a-sense-of-place-a-gentle-guide-to-vpr-073780225dda)
+
 ## Overview
 
 This repository demonstrates how to build a place memory system for indoor robot localization:
