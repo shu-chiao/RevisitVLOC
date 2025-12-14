@@ -78,6 +78,4 @@ This project builds upon the following excellent works:
   > [huggingface](https://huggingface.co/datasets/ai4ce/NYC-Indoor-VPR-Data/tree/main) Download public dataset  
   > Diwei Sheng et al. "NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset." 2024.
 
-## License
 
-Apache 2.0
